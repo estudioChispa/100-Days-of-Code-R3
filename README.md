@@ -19,8 +19,9 @@ Log of Round 3 of my 100 Days ofCode adventure
 #100DaysofCode #iOS #Swift
 
 ***
+## 
 
-### R3D002 - July 10, Tuesday
+#### R3D002 - July 10, Tuesday
 #100DaysofCode #iOS #Swift
 
 ***
