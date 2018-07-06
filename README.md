@@ -3,9 +3,8 @@ Log of Round 3 of my 100 Days ofCode adventure
 
  Start | Completion
  --- | --- 
- Jul 9 | Oct 16 
- Monday | Tuesday 
- 2018 | 2018 
+ Jul 9, 2018 | Oct 16, 2018 
+
 
 ## Goals
 
@@ -15,5 +14,5 @@ Log of Round 3 of my 100 Days ofCode adventure
 
 ## Log
 
-### R3D001 - July 9, 2018
+### R3D001 - July 9, Monday, 2018
 #100DaysofCode #iOS #Swift
