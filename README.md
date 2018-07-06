@@ -15,7 +15,7 @@ Log of Round 3 of my 100 Days ofCode adventure
 
 ## Log
 
-### R3D001 - July 9, Monday
+#### R3D001 - July 9, Monday
 #100DaysofCode #iOS #Swift
 
 ##
