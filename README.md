@@ -12,7 +12,16 @@ Log of Round 3 of my 100 Days ofCode adventure
 - [ ] Sticker pack with animations
 - [ ] Sticker pack with in-app purchase
 
+
 ## Log
 
-### R3D001 - July 9, Monday, 2018
+### R3D001 - July 9, Monday
 #100DaysofCode #iOS #Swift
+
+***
+
+### R3D002 - July 10, Tuesday
+#100DaysofCode #iOS #Swift
+
+***
+
