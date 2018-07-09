@@ -30,6 +30,8 @@ Log of Round 3 of my 100 Days ofCode adventure
 
 [The Frontier iOS Email Course - Swift Assertions](https://thefrontier.bignerdranch.com/screencasts/Swift-Assertions?utm_source=The+Frontier+-+Developer+Email+Courses&utm_campaign=b4a53a0b48-AUTOMATION_The_Frontier_iOS_Email_Course_1&utm_medium=email&utm_term=0_5e525bf411-b4a53a0b48-334151785&mc_cid=b4a53a0b48&mc_eid=1c4ba8b408)
 
+[Apple Developer Documentation - Debugging and Reflection](https://developer.apple.com/documentation/swift/swift_standard_library/debugging_and_reflection)
+
 ---
 
 
