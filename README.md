@@ -8,7 +8,7 @@ Log of Round 3 of my 100 Days ofCode adventure
 
 ## Goals
 
-- [ ] Complete BNR 5 day iOS email course
+- [ ] Complete BNR 7 day iOS email course
 - [ ] First sticker pack - free
 - [ ] Sticker pack with animations
 - [ ] Sticker pack with in-app purchase
