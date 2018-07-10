@@ -19,7 +19,21 @@ Log of Round 3 of my 100 Days ofCode adventure
 ## Log
 
 #### R3D002 - July 10, Tuesday
-#100DaysofCode #iOS #Swift
+#100DaysofCode #iOS #Swift Today's topic is Configurations vs. Schemes. Really enjoying the screencasts from Big Nerd Ranch. 
+
+"Targets and configurations and schemes; Oh my! Confused by these Xcode concepts? Curious how using multiple build configurations coupled with schemes can avoid the multiple-target mess? If you’re wondering what this all means and how it can make your developer life better, this video is for you. 
+
+Questions we'll answer in this video: 
+
+- What is an Xcode (build) configuration?
+- What is an Xcode scheme?
+- What’s the difference between a configuration and a scheme?
+- How do I use build configurations?
+- How do I use schemes?
+- How do schemes make my life easier?
+- How do configurations make my life easier. "
+
+[The Frontier iOS Email Course - Configurations vs. Schemes](https://thefrontier.bignerdranch.com/screencasts/xcode-configurations-vs-schemes?utm_source=The+Frontier+-+Developer+Email+Courses&utm_campaign=330f7d370e-AUTOMATION_The_Frontier_iOS_Email_Course_3&utm_medium=email&utm_term=0_5e525bf411-330f7d370e-334151785&mc_cid=330f7d370e&mc_eid=1c4ba8b408)
 
 ---
 
