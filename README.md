@@ -19,7 +19,7 @@ Log of Round 3 of my 100 Days ofCode adventure
 ## Log
 
 #### R3D002 - July 10, Tuesday
-#100DaysofCode #iOS #Swift Today's topic is Configurations vs. Schemes. Really enjoying the screencasts from Big Nerd Ranch. 
+#100DaysofCode #iOS #Swift eally enjoying the screencasts from @BigNerdRanch 's The Frontier. Today I've watched one on Configurations vs. Schemes and one on Dynamic Stack Views. Learned a lot from both, but the Dynamic Stack Views are something I can implement right away.
 
 "Targets and configurations and schemes; Oh my! Confused by these Xcode concepts? Curious how using multiple build configurations coupled with schemes can avoid the multiple-target mess? If you’re wondering what this all means and how it can make your developer life better, this video is for you. 
 
@@ -34,6 +34,11 @@ Questions we'll answer in this video:
 - How do configurations make my life easier. "
 
 [The Frontier iOS Email Course - Configurations vs. Schemes](https://thefrontier.bignerdranch.com/screencasts/xcode-configurations-vs-schemes?utm_source=The+Frontier+-+Developer+Email+Courses&utm_campaign=330f7d370e-AUTOMATION_The_Frontier_iOS_Email_Course_3&utm_medium=email&utm_term=0_5e525bf411-330f7d370e-334151785&mc_cid=330f7d370e&mc_eid=1c4ba8b408)
+
+
+"How to use a UIStackView to manage dynamic content. This is a lightweight option when you do not need all of the capabilities of a UITableView."
+
+[The Frontier iOS Email Course - Dynamic Stack Views](https://thefrontier.bignerdranch.com/screencasts/dynamic-stack-views?utm_source=The+Frontier+-+Developer+Email+Courses&utm_campaign=efd693072f-AUTOMATION_The_Frontier_iOS_Email_Course_5&utm_medium=email&utm_term=0_5e525bf411-efd693072f-334151785&mc_cid=efd693072f&mc_eid=1c4ba8b408)
 
 ---
 
