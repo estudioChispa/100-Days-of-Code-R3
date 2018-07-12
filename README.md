@@ -18,8 +18,17 @@ Log of Round 3 of my 100 Days ofCode adventure
 
 ## Log
 
+#### R3D003 - July 11, Wednesday
+#100DaysofCode #iOS #Swift One more day of screenscasts on @BigNerdRanch "The Frontier". Another interesting topic - Using Container Views to Manage Complex Layouts. Their example was perhaps too simple, but I'll play around with an example related to my next app idea and see how it goes.
+
+"When you have a complex view controller view, sometimes it is helpful to break up the view into manageable chunks. We’ll show you how easy it is to break up the implementation of a single view controller into multiple views just by using container views. Using container views can encourage code reuse as well as simplifying complex view controllers."
+
+[The Frontier iOS Email Course - Using Container Views to Manage Complex Layouts](https://thefrontier.bignerdranch.com/screencasts/using-container-views-to-manage-complex-layouts?utm_source=The+Frontier+-+Developer+Email+Courses&utm_campaign=69e5f9e8b5-AUTOMATION_The_Frontier_iOS_Email_Course_6&utm_medium=email&utm_term=0_5e525bf411-69e5f9e8b5-334151785&mc_cid=69e5f9e8b5&mc_eid=1c4ba8b408)
+
+---
+
 #### R3D002 - July 10, Tuesday
-#100DaysofCode #iOS #Swift eally enjoying the screencasts from @BigNerdRanch 's The Frontier. Today I've watched one on Configurations vs. Schemes and one on Dynamic Stack Views. Learned a lot from both, but the Dynamic Stack Views are something I can implement right away.
+#100DaysofCode #iOS #Swift Really enjoying the screencasts from @BigNerdRanch 's The Frontier. Today I've watched one on Configurations vs. Schemes and one on Dynamic Stack Views. Learned a lot from both, but the Dynamic Stack Views are something I can implement right away.
 
 "Targets and configurations and schemes; Oh my! Confused by these Xcode concepts? Curious how using multiple build configurations coupled with schemes can avoid the multiple-target mess? If you’re wondering what this all means and how it can make your developer life better, this video is for you. 
 
