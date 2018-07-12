@@ -23,7 +23,7 @@ Log of Round 3 of my 100 Days ofCode adventure
 
 "As View Controllers become more complex, the need to manage the state of the view becomes more important. In this video we will discuss how to use a state machine to manage our views state. After this video you will know how to build a state machine using enumerations in Swift and how to apply that to your code."
 
-[The Frontier iOS Email Course - Creating a State Machine Using Swift Enumerations](https://thefrontier.bignerdranch.com/screencasts/creating-a-state-machine-using-swift-enumerations?utm_source=The+Frontier+-+Developer+Email+Courses&utm_campaign=e4cdca21ff-AUTOMATION_The_Frontier_iOS_Email_Course_8&utm_medium=email&utm_term=0_5e525bf411-e4cdca21ff-334151785&mc_cid=e4cdca21ff&mc_eid=1c4ba8b408)
+[The Frontier iOS Email Course - Creating a State Machine Using Swift Enumerations](https://thefrontier.bignerdranch.com/screencasts/creating-a-state-machine-using-swift-enumerations)
 
 [Apple Developer Documentation - View Controller Programming Guide](https://developer.apple.com/library/archive/featuredarticles/ViewControllerPGforiPhoneOS/)
 
