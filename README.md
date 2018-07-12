@@ -38,7 +38,7 @@ Log of Round 3 of my 100 Days ofCode adventure
 
 "When you have a complex view controller view, sometimes it is helpful to break up the view into manageable chunks. We’ll show you how easy it is to break up the implementation of a single view controller into multiple views just by using container views. Using container views can encourage code reuse as well as simplifying complex view controllers."
 
-[The Frontier iOS Email Course - Using Container Views to Manage Complex Layouts](https://thefrontier.bignerdranch.com/screencasts/using-container-views-to-manage-complex-layouts?utm_source=The+Frontier+-+Developer+Email+Courses&utm_campaign=69e5f9e8b5-AUTOMATION_The_Frontier_iOS_Email_Course_6&utm_medium=email&utm_term=0_5e525bf411-69e5f9e8b5-334151785&mc_cid=69e5f9e8b5&mc_eid=1c4ba8b408)
+[The Frontier iOS Email Course - Using Container Views to Manage Complex Layouts](https://thefrontier.bignerdranch.com/screencasts/using-container-views-to-manage-complex-layouts)
 
 ---
 
@@ -57,12 +57,12 @@ Questions we'll answer in this video:
 - How do schemes make my life easier?
 - How do configurations make my life easier. "
 
-[The Frontier iOS Email Course - Configurations vs. Schemes](https://thefrontier.bignerdranch.com/screencasts/xcode-configurations-vs-schemes?utm_source=The+Frontier+-+Developer+Email+Courses&utm_campaign=330f7d370e-AUTOMATION_The_Frontier_iOS_Email_Course_3&utm_medium=email&utm_term=0_5e525bf411-330f7d370e-334151785&mc_cid=330f7d370e&mc_eid=1c4ba8b408)
+[The Frontier iOS Email Course - Configurations vs. Schemes](https://thefrontier.bignerdranch.com/screencasts/xcode-configurations-vs-schemes)
 
 
 "How to use a UIStackView to manage dynamic content. This is a lightweight option when you do not need all of the capabilities of a UITableView."
 
-[The Frontier iOS Email Course - Dynamic Stack Views](https://thefrontier.bignerdranch.com/screencasts/dynamic-stack-views?utm_source=The+Frontier+-+Developer+Email+Courses&utm_campaign=efd693072f-AUTOMATION_The_Frontier_iOS_Email_Course_5&utm_medium=email&utm_term=0_5e525bf411-efd693072f-334151785&mc_cid=efd693072f&mc_eid=1c4ba8b408)
+[The Frontier iOS Email Course - Dynamic Stack Views](https://thefrontier.bignerdranch.com/screencasts/dynamic-stack-views)
 
 ---
 
@@ -71,7 +71,7 @@ Questions we'll answer in this video:
 
 "In this screencast, we’ll learn how to use Swift’s assertion function to code defensively. By the end of this video, you’ll be able to use the assertion functions to help you write stronger, more robust code. "
 
-[The Frontier iOS Email Course - Swift Assertions](https://thefrontier.bignerdranch.com/screencasts/Swift-Assertions?utm_source=The+Frontier+-+Developer+Email+Courses&utm_campaign=b4a53a0b48-AUTOMATION_The_Frontier_iOS_Email_Course_1&utm_medium=email&utm_term=0_5e525bf411-b4a53a0b48-334151785&mc_cid=b4a53a0b48&mc_eid=1c4ba8b408)
+[The Frontier iOS Email Course - Swift Assertions](https://thefrontier.bignerdranch.com/screencasts/Swift-Assertions)
 
 [Apple Developer Documentation - Debugging and Reflection](https://developer.apple.com/documentation/swift/swift_standard_library/debugging_and_reflection)
 
