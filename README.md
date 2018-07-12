@@ -18,6 +18,21 @@ Log of Round 3 of my 100 Days ofCode adventure
 
 ## Log
 
+#### R3D004 - July 12, Thursday
+#100DaysofCode #iOS #Swift Today's topic is "Creating a State Machine Using Swift Enumerations." I will definitely be using this approach in an upcomning app. Glad I found this video on @BigNerdRach The Frontier.
+
+"As View Controllers become more complex, the need to manage the state of the view becomes more important. In this video we will discuss how to use a state machine to manage our views state. After this video you will know how to build a state machine using enumerations in Swift and how to apply that to your code."
+
+[The Frontier iOS Email Course - Creating a State Machine Using Swift Enumerations](https://thefrontier.bignerdranch.com/screencasts/creating-a-state-machine-using-swift-enumerations?utm_source=The+Frontier+-+Developer+Email+Courses&utm_campaign=e4cdca21ff-AUTOMATION_The_Frontier_iOS_Email_Course_8&utm_medium=email&utm_term=0_5e525bf411-e4cdca21ff-334151785&mc_cid=e4cdca21ff&mc_eid=1c4ba8b408)
+
+[Apple Developer Documentation - View Controller Programming Guide](https://developer.apple.com/library/archive/featuredarticles/ViewControllerPGforiPhoneOS/)
+
+[Swift Documentation - Enumerations](https://docs.swift.org/swift-book/LanguageGuide/Enumerations.html)
+
+[Mark Shead - State Machines](https://blog.markshead.com/869/state-machines-computer-science/)
+
+---
+
 #### R3D003 - July 11, Wednesday
 #100DaysofCode #iOS #Swift One more day of screenscasts on @BigNerdRanch "The Frontier". Another interesting topic - Using Container Views to Manage Complex Layouts. Their example was perhaps too simple, but I'll play around with an example related to my next app idea and see how it goes.
 
