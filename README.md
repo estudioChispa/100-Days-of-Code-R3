@@ -18,8 +18,17 @@ Log of Round 3 of my 100 Days ofCode adventure
 
 ## Log
 
+#### R3D005 - July 13, Friday
+#100DaysOfCode #iOS #Swift Didn't spend a lot of time coding today. Hope to be more productive tomorrow. Did spend some more time on State Machines. 
+
+[Austin Rude - State Machines in Swift](http://austinrude.com/post/state-machines-in-swift/)
+
+[GameplayKit Programming Guide - State Machines](https://developer.apple.com/library/archive/documentation/General/Conceptual/GameplayKit_Guide/StateMachine.html#//apple_ref/doc/uid/TP40015172-CH7-SW1)
+
+---
+
 #### R3D004 - July 12, Thursday
-#100DaysofCode #iOS #Swift Today's topic is "Creating a State Machine Using Swift Enumerations." I will definitely be using this approach in an upcomning app. Glad I found this video on @BigNerdRach The Frontier.
+#100DaysOfCode #iOS #Swift Today's topic is "Creating a State Machine Using Swift Enumerations." I will definitely be using this approach in an upcomning app. Glad I found this video on @BigNerdRach The Frontier.
 
 "As View Controllers become more complex, the need to manage the state of the view becomes more important. In this video we will discuss how to use a state machine to manage our views state. After this video you will know how to build a state machine using enumerations in Swift and how to apply that to your code."
 
@@ -34,7 +43,7 @@ Log of Round 3 of my 100 Days ofCode adventure
 ---
 
 #### R3D003 - July 11, Wednesday
-#100DaysofCode #iOS #Swift One more day of screenscasts on @BigNerdRanch "The Frontier". Another interesting topic - Using Container Views to Manage Complex Layouts. Their example was perhaps too simple, but I'll play around with an example related to my next app idea and see how it goes.
+#100DaysOfCode #iOS #Swift One more day of screenscasts on @BigNerdRanch "The Frontier". Another interesting topic - Using Container Views to Manage Complex Layouts. Their example was perhaps too simple, but I'll play around with an example related to my next app idea and see how it goes.
 
 "When you have a complex view controller view, sometimes it is helpful to break up the view into manageable chunks. We’ll show you how easy it is to break up the implementation of a single view controller into multiple views just by using container views. Using container views can encourage code reuse as well as simplifying complex view controllers."
 
@@ -43,7 +52,7 @@ Log of Round 3 of my 100 Days ofCode adventure
 ---
 
 #### R3D002 - July 10, Tuesday
-#100DaysofCode #iOS #Swift Really enjoying the screencasts from @BigNerdRanch 's The Frontier. Today I've watched one on Configurations vs. Schemes and one on Dynamic Stack Views. Learned a lot from both, but the Dynamic Stack Views are something I can implement right away.
+#100DaysOfCode #iOS #Swift Really enjoying the screencasts from @BigNerdRanch 's The Frontier. Today I've watched one on Configurations vs. Schemes and one on Dynamic Stack Views. Learned a lot from both, but the Dynamic Stack Views are something I can implement right away.
 
 "Targets and configurations and schemes; Oh my! Confused by these Xcode concepts? Curious how using multiple build configurations coupled with schemes can avoid the multiple-target mess? If you’re wondering what this all means and how it can make your developer life better, this video is for you. 
 
@@ -67,7 +76,7 @@ Questions we'll answer in this video:
 ---
 
 #### R3D001 - July 9, Monday
-#100DaysofCode #iOS #Swift Starting round 3! The first few days I'm going to run through some screencasts from Big Nerd Ranch's "The Frontier." Today's topic is Swift Assertions.
+#100DaysOfCode #iOS #Swift Starting round 3! The first few days I'm going to run through some screencasts from Big Nerd Ranch's "The Frontier." Today's topic is Swift Assertions.
 
 "In this screencast, we’ll learn how to use Swift’s assertion function to code defensively. By the end of this video, you’ll be able to use the assertion functions to help you write stronger, more robust code. "
 
