@@ -18,6 +18,31 @@ Log of Round 3 of my 100 Days ofCode adventure
 
 ## Log
 
+#### R3D008 - July 16, Monday
+#100DaysOfCode Having a hard time getting motivated to code today. Played around with the State Machine project I started the other day but not much else. #swift #iOS
+
+#### R3D007 - July 15, Sunday
+#100DaysOfCode #inkle #unity #iOS Yesterday's dip into Inkle Studio's ink scripting language led to a short exploration of Unity. Definitely something I'd like to learn more about. Maybe on my next round of #100DaysOfCode.
+
+[YouTube - Create a Visual Novel in Unity with Ink!](https://www.youtube.com/watch?v=v5sU1Aidzwo)
+
+[YouTube - Ink: Behind the Narrative Scripting Language of '80 Days' and 'Sorcery!'](https://www.youtube.com/watch?v=KYBf6Ko1I2k)
+
+[Ray Wenderlich.com - Introduction to Unity](https://www.raywenderlich.com/147687/introduction-unity-getting-started-part-12)
+
+[Unity Documentation - Getting Started with iOS Development](https://docs.unity3d.com/Manual/iphone-GettingStarted.html)
+
+---
+
+#### R3D006 - July 14, Saturday
+#100DaysOfCode #inkle #inkJam18 Veered off track today and got caught up in learning about the scripting language ink from @inkleStudios. Have been thinking about a #CreateYourOwnAdventure #CYOA game for a long time. They are having #inkJam18 at the end of August. Maybe a good time to try it out.
+
+[YouTube - Writing in Ink](https://www.youtube.com/watch?v=b2MWQuZ9dUc)
+
+[GitHub - Inkle/Ink](https://github.com/inkle/ink)
+
+---
+
 #### R3D005 - July 13, Friday
 #100DaysOfCode #iOS #Swift Didn't spend a lot of time coding today. Hope to be more productive tomorrow. Did spend some more time on State Machines. 
 
